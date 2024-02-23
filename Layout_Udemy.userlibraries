@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.7.0">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.7.0">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/84e309fbf21d857aac079a3c1fffd84284e1114d/junit-platform-commons-1.7.0.jar" />
+  </library>
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Gradle: org.opentest4j:opentest4j:1.2.0">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.7.0">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/d9044d6b45e2232ddd53fa56c15333e43d1749fd/junit-jupiter-engine-5.7.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.7.0">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.0/eadb73c5074a4ac71061defd00fc176152a4d12c/junit-platform-engine-1.7.0.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-fxml:mac:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/12.0.1/975a83878e6687dbf3fdb35592baa2586b658c8b/javafx-fxml-12.0.1-mac.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-controls:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/12.0.1/a6502999bdb947885c8d121a47d745d52a06577a/javafx-controls-12.0.1.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-controls:mac:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/12.0.1/af23299415c0d594ea9f84b3dd3baf9b54618594/javafx-controls-12.0.1-mac.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-graphics:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/12.0.1/19ec56a15d7dd9c49112912547425b718485d7db/javafx-graphics-12.0.1.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-graphics:mac:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/12.0.1/ed0b71c64a58482f659194ab087b7eeda0fc562d/javafx-graphics-12.0.1-mac.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-base:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/12.0.1/6abae81d00e0c6f4fde02e2666f9c0b989ff47e4/javafx-base-12.0.1.jar" />
+  </library>
+  <library name="Gradle: org.openjfx:javafx-base:mac:12.0.1">
+    <archive path="/Users/miloszkaluza/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/12.0.1/b995ca9beeb01fcddd062c54a24ff4f6aa3b2a37/javafx-base-12.0.1-mac.jar" />
+  </library>
+  <library name="javafx-swt1">
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx-swt.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.base.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.controls.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.fxml.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.graphics.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.media.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.swing.jar" />
+    <archive path="/Users/miloszkaluza/javafx-sdk-15.0.1/lib/javafx.web.jar" />
+  </library>
+  <library name="lib">
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx-swt.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.web.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.base.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.fxml.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.media.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.swing.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.controls.jar" />
+    <archive path="/Library/Java/JavaVirtualMachines/javafx-sdk-17/lib/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+
